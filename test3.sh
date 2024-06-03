@@ -1,1 +1,0 @@
-echo "Third test completed"
